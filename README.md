@@ -55,7 +55,7 @@ VPN clásica basada en políticas. El tráfico interesante se define mediante AC
 ## ⚙️ Configuración
 
 El script completo de configuración se encuentra en:  
-📄 [`Lab01_IPSec_IKEv1_PolicyBased.txt`](./Lab01_IPSec_IKEv1_PolicyBased.txt)
+📄 [`Lab01_IPSec_IKEv1_PolicyBased.txt`](./EnmanuelFelizSoto_2025-1402_IPSec_IKEv1_PolicyBased_P3.txt)
 
 ### Parámetros IKE/IPSec
 
@@ -129,7 +129,7 @@ ping 10.14.20.10 source 10.14.10.2
 | Recurso | Enlace |
 |---------|--------|
 | Repositorio Principal | [Enmafs/NetSec](https://github.com/Enmafs/NetSec) |
-| Script de configuración | [`Lab01_IPSec_IKEv1_PolicyBased.txt`](./Lab01_IPSec_IKEv1_PolicyBased.txt) |
+| Script de configuración | [`Lab01_IPSec_IKEv1_PolicyBased.txt`](./EnmanuelFelizSoto_2025-1402_IPSec_IKEv1_PolicyBased_P3.txt) |
 | Video demostración | 🎬 https://youtu.be/_ZKK-srNnZU |
 
 ---
